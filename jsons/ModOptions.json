@@ -1,6 +1,6 @@
 {
         "constants":{
-                "naturalWonderCountMultiplier": 2, // vanila is 0.124
-                "naturalWonderCountAddedConstant": 1.613, // ''is 0.1
+                "naturalWonderCountMultiplier": 20, // vanila is 0.124
+                "naturalWonderCountAddedConstant": 16.13, // ''is 0.1
         }
 }
