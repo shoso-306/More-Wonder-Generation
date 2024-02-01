@@ -1,3 +1,3 @@
-自然遺産の生成数を極端に増やすだけです
+Just increase the number of natural heritage generations.
 
-植生の豊かさを増やせばより多く生成されるよ〜
+If you increase the richness of vegetation, it will be generated more
